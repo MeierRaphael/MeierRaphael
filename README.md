@@ -25,6 +25,9 @@ In Progess: SVD, PCA, K-Means, Gaussioan Mixture Models, UMAP
 - Code cells are annotated with comments to explain their functionality.
 - Markdown cells provide context and insights into the reasoning behind certain decisions.
 
+#### Detecting neurdegenerative Deseases with diffrent ML Models (Pytorch Project)
+
+##### In work, comming soon...
 
 ----
 
